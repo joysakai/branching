@@ -1,2 +1,4 @@
-# ignore .tmp files
+# local gitignore 
 *.tmp
+*.out
+tmp/*
