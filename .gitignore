@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ignore .tmp files
 *.tmp
 =======
@@ -8,3 +9,9 @@
 # locally ignore the tmp directory
 tmp/*
 >>>>>>> 1c8a8f1e84f4696277289ab2787679fce47c1612
+=======
+# local gitignore 
+*.tmp
+*.out
+tmp/*
+>>>>>>> qa
